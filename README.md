@@ -1,24 +1,5 @@
-# README
+# Recipe Database
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This RESTful backend API can be used for any recipe collection as the database for a website. It allows for the basis of recipes to be stored and comments are shown in relation to each recipe.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Feel free to change it as you see fit and to fit your own recipe website!
